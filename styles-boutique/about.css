@@ -1,0 +1,48 @@
+body{
+ background-color:rgb(245, 245, 244);
+ font-family: Montserrat;
+ font-weight: 400;
+ margin:0;
+ color:rgb(211, 116, 7);
+ height: 100vh;
+}
+
+.container-about-part{
+   
+    height:200px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo-about-page{
+    width: 180px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.center-side{
+    position:absolute;
+    text-align: center;
+    margin-top: 150px;
+    transform: translateX(-50%);
+    left:50%;
+    font-size: 15px;
+}
+  
+.presentation-text{
+    
+    margin-top: 40px;
+    line-height: 1.8;
+    font-size: 15px;
+}
+
+.droit-usage{
+    margin-top: 500px;
+    color:grey;
+    font-size: 12px;
+}
+
+.top{
+    font-size:14px;
+}

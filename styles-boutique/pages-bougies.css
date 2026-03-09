@@ -1,0 +1,92 @@
+body {
+  background-color: rgb(245, 245, 244);
+  font-family: Montserrat;
+  font-weight: 400;
+  margin: 0;
+  color: rgb(0, 0, 0);
+  
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    height: 180px;
+   
+}
+.logo-page{
+width:180px;
+cursor: pointer;
+}
+
+.presentation-page{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: -20px;
+}
+
+.texte-presentation{
+     display: flex;
+    justify-content: center;
+    flex-direction: row;
+    line-height: 1.8;
+    font-style: italic;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.categories-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+    padding: 20px;
+}
+
+.lien-page {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.lien-page img {
+    display: block;
+    width: 265px;
+    height: 265px;
+    object-fit: cover;
+}
+
+.lien-page:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
+.titre {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 28px 12px 14px;
+    background: linear-gradient(to top, rgba(209, 163, 134, 0.7), transparent);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-align: center;}
+
+    .pied-de-page{
+    display: block;
+    margin-top: 450px;
+    margin-bottom: 40px;
+    font-size: 13px;
+    color:grey;
+    line-height: 1.8;
+    text-align: center;
+
+}

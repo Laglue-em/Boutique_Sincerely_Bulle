@@ -1,0 +1,51 @@
+.sidebar{
+    position: fixed;
+    top:0px;
+    left:0px;
+    bottom: 0px;
+    width: 72px;
+    flex-wrap: nowrap;
+    background-color: rgb(245, 245, 244); 
+    z-index: 100;
+
+}
+.icons-sidebar{
+  position:relative;
+  font-size: 10px;
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.icons-sidebar img{
+    height: 35px;
+    width: 35px;
+    margin-bottom:6px;
+}
+
+.icons-sidebar .tooltip{
+    position: absolute;
+    font-family: roboto;
+    left:50px;
+    top:50%;
+    background-color:rgba(255, 131, 0, 1.0);
+    color:white;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top:4px;
+    padding-bottom:4px;
+    opacity: 0;
+    border-radius: 2px;
+    pointer-events: none;
+    white-space: nowrap;
+    z-index:999;
+    
+}
+.icons-sidebar:hover .tooltip{
+    opacity:0.7;
+}
+
