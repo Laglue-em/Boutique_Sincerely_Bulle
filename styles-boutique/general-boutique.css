@@ -176,6 +176,8 @@
 
 /*Version Mobile*/
 
+ /*Version Mobile*/
+
   @media (max-width: 768px) {
     
     
@@ -209,12 +211,33 @@
     }
 
     .row img {
-        width: 100%;
-        height: auto;
-    }
+    width: calc(100% + 32px);
+    margin-left: -16px;
+    height: auto;
+    display: block;
+}
+    
 
     .row-text {
         width: 100%;
         padding: 0;
     }
-  }
+
+      .row-text {
+        padding: 0 16px;
+        box-sizing: border-box;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .row-text p, .row-text h2 {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        text-align: left;
+    }
+
+    .pied-de-page-front-page {
+    padding: 16px 16px 80px 16px;
+    box-sizing: border-box;
+}
+}
