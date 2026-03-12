@@ -44,4 +44,34 @@
     border-radius: 5px;
 }
 
+/*Version Mobile*/
 
+@media (max-width: 768px) {
+    .header {
+        padding-left: 0;
+        box-sizing: border-box;
+        width: 100%;
+        height: auto;
+        padding: 12px 0;
+    }
+
+   .left-section {
+    display: block;
+    position: static;
+}
+
+    .center-section {
+        flex: 1;
+        justify-content: center;
+    }
+
+    .logo-sb {
+        width: 130px;
+    }
+
+    .right-section {
+        justify-content: flex-end;
+        align-items: center;
+        padding-right: 12px;
+    }
+}
