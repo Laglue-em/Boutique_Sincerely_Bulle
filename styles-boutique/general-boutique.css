@@ -174,9 +174,8 @@
     text-align: right;
   }
 
-/*Version Mobile*/
 
- /*Version Mobile*/
+/*Version Mobile*/
 
   @media (max-width: 768px) {
     
@@ -217,18 +216,12 @@
     display: block;
 }
     
-
-    .row-text {
-        width: 100%;
-        padding: 0;
-    }
-
-      .row-text {
-        padding: 0 16px;
-        box-sizing: border-box;
-        width: 100%;
-        overflow: hidden;
-    }
+  .row-text {
+    padding: 0 16px 16px 24px;
+    box-sizing: border-box;
+    width: 100%;
+    overflow: hidden;
+}
 
     .row-text p, .row-text h2 {
         word-wrap: break-word;
@@ -241,3 +234,4 @@
     box-sizing: border-box;
 }
 }
+  
