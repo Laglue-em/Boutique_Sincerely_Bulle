@@ -4,6 +4,11 @@ Site: https://www.sincerelybulle.fr
 <img width="1889" height="887" alt="front page" src="https://github.com/user-attachments/assets/62946d1a-06ed-4b80-9d7a-b32d66f68df1" />
 <img width="1875" height="872" alt="yoga wash page" src="https://github.com/user-attachments/assets/100d084c-b525-4c08-85c3-f854dbb4b3d4" />
 
+Site boutique https://www.etsy.com/shop/sincerelybulle
+<img width="600" height="620" alt="boutique etsy" src="https://github.com/user-attachments/assets/86fbf365-6bbf-41aa-80d4-d14cd1416cef" />
+
+
+
 Premier projet web, réalisé en autodidacte à l'aide du tutoriel de supersimpledev (6h, disponible sur YouTube),
 au fil de laquelle j'ai codé plusieurs exercices pratiques comme des clones de pages web 
 — disponibles dans le dépôt youtube_clone_exo.
@@ -19,6 +24,6 @@ Ressources qui m'ont été utiles pour mon site Sincerely Bulle:
  - Flaticon(https://flaticon.com) — icônes
  - CSS Gradient (https://cssgradient.io) — générateur de dégradés
 
-Cela a été très gratifiant de coder moi-même mon site, et je ne le cache pas, parfois frustrant, mais j'ai appris et réussi à obtenir le résultat désiré avec de la persévérance.
+Cela a été très gratifiant de coder moi-même mon premier site, j'ai beaucoup appris sur HTML et CSS, heureuse d'avoir réussi à obtenir le résultat désiré avec de la persévérance.
 EM 
   
