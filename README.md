@@ -4,8 +4,6 @@ Site: https://www.sincerelybulle.fr
 <img width="1889" height="887" alt="front page" src="https://github.com/user-attachments/assets/62946d1a-06ed-4b80-9d7a-b32d66f68df1" />
 <img width="1875" height="872" alt="yoga wash page" src="https://github.com/user-attachments/assets/100d084c-b525-4c08-85c3-f854dbb4b3d4" />
 
-Site boutique https://www.etsy.com/shop/sincerelybulle
-<img width="600" height="620" alt="boutique etsy" src="https://github.com/user-attachments/assets/86fbf365-6bbf-41aa-80d4-d14cd1416cef" />
 
 
 
